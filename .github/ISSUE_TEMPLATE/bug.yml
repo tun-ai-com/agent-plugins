@@ -1,0 +1,27 @@
+name: Bug report
+description: Something in the plugin, a skill or an install step did not work
+labels: [bug]
+body:
+  - type: input
+    id: client
+    attributes:
+      label: Client and version
+      description: Claude Code, Codex, Cursor, or another MCP client, with its version
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you asked, what the assistant did, what you expected. Do not paste a real CV or your key.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+  - type: input
+    id: plugin
+    attributes:
+      label: Plugin version
+      description: From tunai-jobs/.claude-plugin/plugin.json

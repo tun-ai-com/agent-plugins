@@ -1,0 +1,23 @@
+name: Tool or skill idea
+description: A tool, skill or client you would like to see
+labels: [enhancement]
+body:
+  - type: textarea
+    id: want
+    attributes:
+      label: What would you ask your assistant to do?
+      description: In your own words, as you would say it to the assistant.
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: What happens today
+  - type: dropdown
+    id: where
+    attributes:
+      label: Is this a skill in this repo or a new tool on the server?
+      options:
+        - A skill or doc in this repo
+        - A new tool on the server (mcp.tun-ai.com)
+        - Not sure
