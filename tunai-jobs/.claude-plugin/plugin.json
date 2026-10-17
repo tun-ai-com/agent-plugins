@@ -1,0 +1,10 @@
+{
+  "name": "tunai-jobs",
+  "version": "0.1.0",
+  "description": "TUNAI Jobs for Claude Code: search live jobs, read one in full, look up pay and who is hiring, and check a CV. Read only. Needs a free key from https://tun-ai.com/agents.",
+  "author": { "name": "TUNAI", "url": "https://tun-ai.com" },
+  "homepage": "https://tun-ai.com/agents",
+  "repository": "https://github.com/tun-ai-com/agent-plugins",
+  "license": "MIT",
+  "keywords": ["jobs", "cv", "resume", "salary", "career", "mcp"]
+}

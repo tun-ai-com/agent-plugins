@@ -1,0 +1,15 @@
+{
+  "name": "tunai",
+  "owner": { "name": "TUNAI", "url": "https://tun-ai.com" },
+  "metadata": { "description": "TUNAI plugins for Claude Code: live job search, CV checks and pay lookups." },
+  "plugins": [
+    {
+      "name": "tunai-jobs",
+      "source": "./tunai-jobs",
+      "description": "Search live jobs from employers' own career pages, check a CV, look up pay and who is hiring. Needs a free TUNAI key.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["jobs", "cv", "resume", "salary", "career", "mcp"]
+    }
+  ]
+}
