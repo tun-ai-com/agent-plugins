@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/tun-ai-com/agent-plugins/security/advisories/new
+    about: Report it privately, not as an issue.
+  - name: Get or manage a key
+    url: https://tun-ai.com/agents
+    about: Keys, usage and revoking are on the TUNAI site.
