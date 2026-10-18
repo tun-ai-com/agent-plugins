@@ -1,0 +1,5 @@
+# Add this to ~/.codex/config.toml, then put your key in the TUNAI_API_KEY environment variable.
+# Get a free key at https://tun-ai.com/agents
+[mcp_servers.tunai]
+url = "https://mcp.tun-ai.com/mcp"
+bearer_token_env_var = "TUNAI_API_KEY"
