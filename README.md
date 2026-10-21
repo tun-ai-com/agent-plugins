@@ -67,6 +67,8 @@ https://tun-ai.com/agents.
 Branches follow Gitflow: `main` is what people install, `develop` is the next release. See [CONTRIBUTING.md](CONTRIBUTING.md).
 Security problems: [SECURITY.md](SECURITY.md). Changes: [CHANGELOG.md](CHANGELOG.md).
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/tun-ai-com-agent-plugins-jr33dr?v=cb4db08a734c82356a916b5c5efcc739)](https://m8ven.ai/mcp/tun-ai-com-agent-plugins-jr33dr?s=readme)
+
 ## About
 
 Built by TUNAI (https://tun-ai.com). MIT licence. Not affiliated with Anthropic or OpenAI.
